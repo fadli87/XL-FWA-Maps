@@ -1,0 +1,98 @@
+{
+  "ADIPALA": {
+    "coverage": 13777,
+    "buildings": 37080
+  },
+  "MAOS": {
+    "coverage": 5502,
+    "buildings": 16137
+  },
+  "KROYA": {
+    "coverage": 14618,
+    "buildings": 41079
+  },
+  "KESUGIHAN": {
+    "coverage": 19529,
+    "buildings": 48339
+  },
+  "BINANGUN": {
+    "coverage": 10326,
+    "buildings": 25061
+  },
+  "BANTARSARI": {
+    "coverage": 9107,
+    "buildings": 21615
+  },
+  "KAWUNGANTEN": {
+    "coverage": 13709,
+    "buildings": 28214
+  },
+  "GANDRUNGMANGU": {
+    "coverage": 15223,
+    "buildings": 39929
+  },
+  "KAMPUNG LAUT": {
+    "coverage": 1902,
+    "buildings": 1495
+  },
+  "PATIMUAN": {
+    "coverage": 8766,
+    "buildings": 15925
+  },
+  "NUSAWUNGU": {
+    "coverage": 12184,
+    "buildings": 28143
+  },
+  "CILACAP SELATAN": {
+    "coverage": 5041,
+    "buildings": 24182
+  },
+  "CILACAP TENGAH": {
+    "coverage": 7336,
+    "buildings": 30646
+  },
+  "CILACAP UTARA": {
+    "coverage": 7128,
+    "buildings": 29701
+  },
+  "JERUKLEGI": {
+    "coverage": 10862,
+    "buildings": 23162
+  },
+  "CIMANGGU": {
+    "coverage": 10556,
+    "buildings": 17986
+  },
+  "KARANGPUCUNG": {
+    "coverage": 6679,
+    "buildings": 13538
+  },
+  "MAJENANG": {
+    "coverage": 15213,
+    "buildings": 38004
+  },
+  "CIPARI": {
+    "coverage": 10316,
+    "buildings": 19490
+  },
+  "SIDAREJA": {
+    "coverage": 8974,
+    "buildings": 23779
+  },
+  "WANAREJA": {
+    "coverage": 18299,
+    "buildings": 24211
+  },
+  "KEDUNGREJA": {
+    "coverage": 13778,
+    "buildings": 34276
+  },
+  "SAMPANG": {
+    "coverage": 6117,
+    "buildings": 17542
+  },
+  "DAYEUHLUHUR": {
+    "coverage": 5893,
+    "buildings": 7708
+  }
+}
