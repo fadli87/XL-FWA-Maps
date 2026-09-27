@@ -730,11 +730,8 @@
           const p = feature.properties;
           const popup = `
             <div class="popup-title">📶 Coverage Area</div>
-            <div class="popup-row"><span class="popup-label">Cluster:</span><span class="popup-value">${p.c || '-'}</span></div>
             <div class="popup-row"><span class="popup-label">Kecamatan:</span><span class="popup-value">${p.d || '-'}</span></div>
-            <div class="popup-row"><span class="popup-label">Desa:</span><span class="popup-value">${p.v || '-'}</span></div>
             <div class="popup-row"><span class="popup-label">Network:</span><span class="popup-value">${p.net || '-'}</span></div>
-            <div class="popup-row"><span class="popup-label">Signal (DBM):</span><span class="popup-value">${p.s || '-'}</span></div>
           `;
           layer.bindPopup(popup);
         }
